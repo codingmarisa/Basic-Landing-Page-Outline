@@ -1,1 +1,1 @@
-# Basic-Landing-Page-Outline
+# Basic Landing Page Outline
