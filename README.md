@@ -1,4 +1,5 @@
 # Assignment: Basic Landing Page Outline
+Create a web page from a provided design.
 ## Provided Design Mockup
 Two images are supplied in preparation for the website development:
 1. Full Color Website Mockup [link](https://github.com/codingmarisa/Basic-Landing-Page-Outline/blob/main/images/website-mockup.png?raw=true)
