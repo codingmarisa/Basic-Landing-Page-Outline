@@ -2,7 +2,7 @@
 ## Provided Design Mockup
 Two images are supplied in preparation for the website development:
 1. Full Color Website Mockup [link](https://github.com/codingmarisa/Basic-Landing-Page-Outline/blob/main/images/website-mockup.png?raw=true)
-2. Color & Font Selections [link](https://github.com/codingmarisa/Basic-Landing-Page-Outline/blob/main/images/font-and-color-selections.png?raw=true)
+2. Color & Font Selections [link](https://github.com/codingmarisa/Basic-Landing-Page-Outline/blob/main/images/font-and-color-selections.png?raw=true) 
 The developer is expected to use these resources to create a page that meets the design expectations.
 ## Proposed Deviation from Submitted Design
 ### Potential Design Issue
