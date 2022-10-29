@@ -7,8 +7,10 @@
     --white-background: #fff;
     --hero-main-text: #F9FAF8;
     --hero-secondary-text: #E5E7EB;
-    --button-background: #3882F6;
-    --call-to-action-background: #3882F6;
+    /* --button-background: #3882F6; Darkened shade by 11% to meet accessibility standards */
+    /* --call-to-action-background: #3882F6; Darkened shade by 11% to meet accessibility standards */
+    --button-background-color: #186ef5;
+    --call-to-action-background: #186ef5;
     --information-header-text: #1F2937;
     --quote-text: #1F2937;
 
@@ -61,7 +63,7 @@ body {
 }
 
 .nav-links {
-    font-size: var(--nav-link-text-size);  300px;
+    font-size: var(--nav-link-text-size);
 }
 
 .nav-links a {
@@ -112,10 +114,10 @@ body {
   }
   
   .button {
-        color: var(--hero-main-text);
+        color: #fff;
         font-weight: var(--hero-text-weight);
         font-size: var(--hero-seconday-text-size);
-        background-color: var(--button-background);
+        background-color: #186ef5;
         border: solid 1px var(--dark-background);
         border-radius: 5px;
         padding: 0.5rem 1.5rem;
@@ -209,7 +211,7 @@ body {
   
   .call-to-action-content {
         background-color: var(--call-to-action-background);
-        color: var(--hero-main-text);
+        color: #fff;
         height: 50%;
         width: 80%;
         max-width: 1200px;
@@ -220,18 +222,20 @@ body {
   }
   
   .call-to-action-item h2 {
-        color: var(--hero-main-text);
+        color: #fff;
         font-weight: var(--hero-text-weight);
         margin: 0;  
   }
   
   .call-to-action-item p {
-        color: var(--hero-secondary-text);
+        /* color: var(--hero-secondary-text); */
+        color: #fff;
+        font-size: 1.2em;
         margin: 0;
   }
   
   .call-to-action-button {
-        color: var(--hero-main-text);
+        color: #fff;
         font-weight: var(--hero-text-weight);
         font-size: var(--hero-seconday-text-size);
         background-color: var(--button-background);
